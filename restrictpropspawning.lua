@@ -3,7 +3,6 @@ local staff = {
     "superadmin",
     "admin",
     "operator",
-    "owner",
 }
 
 hook.Add("PlayerSpawnProp", "RestrictPropSpawning", function(ply, model)
