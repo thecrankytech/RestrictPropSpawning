@@ -2,7 +2,7 @@ local ErrorMsg = "[ERROR] Spawning props is restricted to staff only."
 local staff = {
     ["superadmin"] = true,
     ["admin"] = true,
-    ["operator"] true,
+    ["operator"] = true,
 }
 
 hook.Add("PlayerSpawnProp", "RestrictPropSpawning", function(ply, model)
