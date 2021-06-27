@@ -1,0 +1,14 @@
+{
+	"title"		:	"ULX - SpawnRestrict",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "admin", "staff" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"README.md",
+		".git/*",
+		".git*"
+	]
+}

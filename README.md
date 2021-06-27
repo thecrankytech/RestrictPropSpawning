@@ -3,4 +3,4 @@
 
 ## Installation
 
-Drop the `restrictpropspawning.lua` and place it in `garrysmod/lua/autorun/server`
+Either just clone the repository into your addons folder or download the zip and unpack the ``RestrictPropSpawning-master`` folder into the addons folder
