@@ -36,7 +36,7 @@ ULib.ucl.registerAccess('Can Spawn NPCs', 'user', 'Allows user to spawn NPCs', '
     SWEP give restriction
 ]]
 -- Permission check hook: 
-hook.Add("PlayerGiveSWEP", "sr_RestrictWeaponSpawning", function(ply, weapon, swep) -- add uniqueness to unique hook id
+hook.Add("PlayerGiveSWEP", "sr_RestrictWeaponGiving", function(ply, weapon, swep) -- add uniqueness to unique hook id
     -- check if user has permissions
     if not ply:query( 'Can Give SWEPs' ) then
         -- Print error to users chat and console
