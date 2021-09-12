@@ -1,8 +1,8 @@
 ULib.registerPlugin({
-    Name = 'therealknight\'s Spawn restriction',
-    Version = '1.0.0',
-    Author = 'therealknight',
-    URL = 'https://github.com/therealknight/RestrictPropSpawning'
+    Name = "therealknight\'s Spawn restriction",
+    Version = "1.0.0",
+    Author = "therealknight",
+    URL = "https://github.com/therealknight/RestrictPropSpawning"
 })
 --[[
     Prop spawning restriction
