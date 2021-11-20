@@ -6,5 +6,5 @@
 Either just clone the repository into your addons folder or download the zip and unpack the ``RestrictPropSpawning-master`` folder into the addons folder
 
 ## Credits
-Knight - Initial Creation\n
-Rainbow Dash - ULX Implementation
+- Knight - Initial Creation
+- Rainbow Dash - ULX Implementation
